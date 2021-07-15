@@ -1,4 +1,4 @@
-const { theme } = require('./theme');
+const { theme } = require('./Theme');
 
 let newArr = [];
 
