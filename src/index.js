@@ -4,6 +4,7 @@ import './menu.json';
 // 
 import './js/Theme';
 import './js/onTheme';
+import menuTemplates from './templates/menu.hbs';
 
 import menu from './menu.json';
 
