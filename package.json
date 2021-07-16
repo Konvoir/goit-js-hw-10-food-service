@@ -16,7 +16,7 @@
   "author": "Konvoir <Bakeskoff@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/konvoir/goit-js-hw-10-food-service/issues"
+    "url": "https://github.com/konvoir/goit-js-hw-10-food-service"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
